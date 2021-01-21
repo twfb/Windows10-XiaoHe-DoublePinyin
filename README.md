@@ -7,7 +7,7 @@
   - 文件内容
   
   ```
-  ﻿Windows Registry Editor Version 5.00
+  Windows Registry Editor Version 5.00
 
   [HKEY_CURRENT_USER\Software\Microsoft\InputMethod\Settings\CHS]
   "Enable Double Pinyin"=dword:00000001
